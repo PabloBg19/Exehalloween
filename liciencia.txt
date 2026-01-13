@@ -1,0 +1,44 @@
+ACUERDO DE LICENCIA DE USUARIO FINAL (EULA)
+Aplicación: HalloweenFX
+Desarrollador: Hisdev
+Fecha de última actualización: 12 de Enero de 2026
+
+IMPORTANTE: POR FAVOR LEA ESTE ACUERDO CUIDADOSAMENTE ANTES DE CONTINUAR CON LA DESCARGA O EL USO DE LA APLICACIÓN.
+
+1. ACUERDO LEGAL
+Este Acuerdo de Licencia de Usuario Final ("EULA") es un acuerdo legal entre usted (en adelante, el "Usuario") y Hisdev (en adelante, el "Licenciante") para el uso de la aplicación móvil "HalloweenFX" (en adelante, el "Software"). Al instalar, copiar o utilizar el Software, usted acepta estar sujeto a los términos de este EULA.
+
+2. CONCESIÓN DE LICENCIA
+Hisdev le otorga al Usuario una licencia revocable, no exclusiva, no transferible y limitada para descargar, instalar y utilizar la aplicación estrictamente para su uso personal y no comercial en dispositivos móviles poseídos o controlados por usted.
+
+3. DERECHOS DE PROPIEDAD INTELECTUAL
+El Software, incluyendo pero no limitado a todo el contenido gráfico, logotipos, efectos de sonido, código fuente, algoritmos de la ruleta y diseño, es propiedad intelectual de Hisdev. El Software está protegido por las leyes de derechos de autor y tratados internacionales. Usted no adquiere ningún derecho de propiedad sobre el Software.
+
+4. RESTRICCIONES DE USO
+El Usuario se compromete a no:
+a) Licenciar, vender, alquilar, arrendar, asignar, distribuir, transmitir, alojar, subcontratar o explotar comercialmente el Software.
+b) Modificar, realizar trabajos derivados, desensamblar, descifrar, realizar compilación inversa o ingeniería inversa de cualquier parte del Software.
+c) Eliminar, alterar u ocultar cualquier aviso de propiedad (incluyendo cualquier aviso de derechos de autor o marca registrada) de Hisdev.
+d) Utilizar el Software para cualquier propósito ilegal o no autorizado.
+
+5. NATURALEZA DE LA APLICACIÓN (ENTRETENIMIENTO)
+HalloweenFX es una aplicación de entretenimiento diseñada para simular una ruleta con temática de Halloween. Los resultados de la ruleta son generados aleatoriamente mediante software. Hisdev no promueve ni se hace responsable del uso de esta aplicación para apuestas reales o juegos de azar ilegales.
+
+6. RENUNCIA DE GARANTÍAS
+El Software se proporciona "TAL CUAL" y "SEGÚN DISPONIBILIDAD", con todos sus fallos y sin garantía de ningún tipo. Hisdev renuncia a todas las garantías y condiciones con respecto al Software, ya sean expresas, implícitas o legales. Hisdev no garantiza que el funcionamiento del Software sea ininterrumpido o esté libre de errores.
+
+7. LIMITACIÓN DE RESPONSABILIDAD
+En la máxima medida permitida por la ley aplicable, en ningún caso Hisdev será responsable por daños personales, o cualquier daño incidental, especial, indirecto o consecuente (incluyendo, sin limitación, daños por pérdida de beneficios, pérdida de datos o interrupción del negocio) que surjan del uso o la imposibilidad de usar el Software.
+
+8. TERMINACIÓN
+Este EULA es efectivo hasta que sea terminado por usted o por el Licenciante. Sus derechos bajo este EULA terminarán automáticamente sin previo aviso si usted incumple cualquiera de los términos. A la terminación, deberá dejar de usar el Software y destruir todas las copias del mismo.
+
+9. LEY APLICABLE
+Este Acuerdo se regirá e interpretará de acuerdo con las leyes del país de residencia de Hisdev, excluyendo sus conflictos de principios legales.
+
+10. CONTACTO
+Si tiene alguna pregunta sobre este Acuerdo, por favor contacte a Hisdev en:
+hisdev@hisdev.com
+
+---
+Copyright © 2026 Hisdev. Todos los derechos reservados.
